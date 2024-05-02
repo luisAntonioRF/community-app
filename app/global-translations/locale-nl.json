@@ -723,7 +723,7 @@
 	"label.input.client.activationdate": "Activatie datum",
 	"label.input.client.creationdate": "Aanmaakdatum",
 	"label.input.rejectiondate": "Weiger Datum",
-	"label.input.rejectionreason": "Reden voor Afwijzing",
+	"label.input.rejectionreason": "Reden voor afwijzing",
 	"label.input.reactivationdate": "Heractiveringsdatum",
 	"label.input.withdrawaldate": "Opnamedatum",
 	"label.input.withdrawalreason": "Reden voor Opname",
